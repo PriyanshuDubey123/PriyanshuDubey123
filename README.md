@@ -51,11 +51,6 @@ I'm a passionate full stack developer from India 🇮🇳 with a knack for creat
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
----
-
-
-
----
 
 ---
 
