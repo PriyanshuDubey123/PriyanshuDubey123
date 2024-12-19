@@ -14,7 +14,7 @@
 I'm a passionate full stack developer from India 🇮🇳 with a knack for creating robust and scalable web applications. My expertise lies in the MERN stack, and I'm driven by the desire to solve real-world problems through innovative tech solutions.
 
 - 🔭 Currently working on: A new web based marketplace plateform
-- 🌱 Learning: Next.js and GrpahQL.
+- 🌱 Learning: Next.js and GraphQL.
 - 👯 Open to collaborate on: Open-source projects and innovative web applications
 - 💬 Ask me about: JavaScript, React, Node.js, or anything related to web development
 - ⚡ Fun fact: I love to solve complex algorithmic puzzles
