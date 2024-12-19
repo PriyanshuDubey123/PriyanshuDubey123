@@ -55,7 +55,7 @@ I'm a passionate full stack developer from India 🇮🇳 with a knack for creat
 
 ### 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PriyanshuDubey123&theme=radical)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=PriyanshuDubey123&theme=radical)
 
 ---
 
