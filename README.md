@@ -53,10 +53,6 @@ I'm a passionate full stack developer from India 🇮🇳 with a knack for creat
 
 ---
 
-### 📊 GitHub Stats
-
-![Total Contributions](https://img.shields.io/badge/Total%20Contributions-120-4c1d4d?style=flat-square)
-
 
 
 ---
